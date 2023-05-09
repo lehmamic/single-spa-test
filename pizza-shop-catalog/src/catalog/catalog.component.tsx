@@ -1,4 +1,4 @@
-export default function Catalog (props) {
+export default function CatalogPage (props) {
     return (
     <div>
         <span>test</span>
